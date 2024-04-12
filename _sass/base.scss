@@ -106,7 +106,6 @@ background-size: 80.4px 80.4px;
 #heading {
 
   flex-wrap: wrap;
-    width:50vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
    position:fixed;
@@ -196,7 +195,7 @@ grid-template-rows: auto auto auto;
   color:white;
   padding:5px;
   position:fixed;
-  width:50vw;
+  width:60vw;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
   }
@@ -2027,7 +2026,7 @@ header h2 {
 
 #main_content {
   margin:0 auto;
-  width: 50vw;
+  width: 60vw;
   height: 100vh;
   margin: auto;
   -webkit-font-smoothing: antialiased;
