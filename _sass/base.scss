@@ -2026,7 +2026,10 @@ header h2 {
 */
 
 #main_content {
-
+  margin:0 auto;
+  width: 50vw;
+  height: 100vh;
+  margin: auto;
   -webkit-font-smoothing: antialiased;
 }
 section img {
